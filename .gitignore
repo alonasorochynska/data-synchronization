@@ -1,2 +1,5 @@
 venv/
 .idea/
+replica/
+source/
+sync_logs.log
