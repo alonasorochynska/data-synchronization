@@ -14,6 +14,7 @@ Where:
 * `source` is the path to the source directory that needs to be synchronized.
 * `replica` is the directory where files from the source will be copied.
 * `60` is the interval in seconds for how often the synchronization will happen.
+
 Example: To synchronize the folders C:\my_folder and C:\backup_folder every 60 seconds:
 
 ```bash
